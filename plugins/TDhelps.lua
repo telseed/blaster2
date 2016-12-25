@@ -2,7 +2,7 @@ local function run(msg, matches)
 local telediamondsudo = [[
 ➖➖➖➖➖➖➖
 》Sudo Help
-》for TeleDiamon
+》for teleblaster
 ➖➖➖➖➖➖➖
 💢!add
 ❔نصب ربات در گروه
@@ -504,30 +504,31 @@ local telediamond6 = [[
 مثلا وقتی لینک قفل باشد درصورتی که کاربر لینک ارسال کند هم لینک و هم کاربر در صورت قفل بودن سخت گیری حذف خواهند شد.
 ]]
 local telediamond7 = [[
-̴D̴̴i̴̴a̴̴m̴̴o̴̴n̴̴d̴ ̴C̴̴o̴̴m̴̴m̴̴a̴̴n̴̴d̴̴s̴ :
-
+ 
+🔻–BLASTER TEAM🔺
 ✔️برای دیدن دستورات مورد نظر خود مورد دلخواه را ارسال کنید :
 
 ➰دستورات فارسی:
 ☆دستورات قفلی
-🎗》#راهنمای قفلی
+〽️》#راهنمای قفلی
 ☆دستورات فان
-🎗》#راهنمای فان
+〽️》#راهنمای فان
 ☆دستورات مدیریتی
-🎗》#راهنمای مدیریتی
+〽️》#راهنمای مدیریتی
 
 ➖➖➖➖➖➖➖
 ➰English Commands:
 
 ☆دستورات قفلی
-🎗》#lockhelp
+⚜》#lockhelp
 ☆دستورات فان
-🎗》#funhelp
+⚜》#funhelp
 ☆دستورات مدیریتی
-🎗》#modhelp
+⚜》#modhelp
 
 Join us:
-✔️  @antispamandhack
+✔️  @blaster_tc
+ 
 ]]
     if matches[1] == 'راهنمای مدیریتی' and is_momod(msg) then
         return telediamond  
